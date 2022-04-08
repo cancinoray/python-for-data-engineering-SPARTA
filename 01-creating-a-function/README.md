@@ -4,3 +4,6 @@
 
 ### Objective
 - Our exit assessment for this week is an exercise on using the data structures, python statements, and defining/creating functions.
+
+### Solution
+- Here is my solution to the assessment.
